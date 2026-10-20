@@ -20,15 +20,15 @@ Kemudian dibuat folder kerja dengan nama Lab5Web.
 
 Pertama buat index.html dan script.js.
 
-[Link Screenshot 2](media/ss/2.png)
+![Screenshoot 2](media/ss/2.png)
 
 Selanjutnya membuat halaman awal untuk html.
 
-[Link Screenshot 3](media/ss/3.png)
+![Screenshoot 3](media/ss/3.png)
 
 Selanjutnya save file index.html.
 
-[Link Screenshot 4](media/ss/4.png)
+![Screenshoot 4](media/ss/4.png)
 
 Hasilnya :
 
@@ -38,70 +38,70 @@ Muncul heading Pengenalan JavaScript.
 
 Pada tahap ini ditambahkan console log pada file script.js.
 
-[Link Screenshot 5](media/ss/5.png)
+![Screenshoot 5](media/ss/5.png)
 
 Hasilnya :
 
 Teks dengan tulisan Konten awal. berubah menjadi Hello World.
 
-[Link Screenshot 6](media/ss/6.png)
+![Screenshoot 6](media/ss/6.png)
 
 ### 2. Alert dan prompt
 
 Membuat alert dengan menambahkan fungsi java script.
 
-[Link Screenshot 7](media/ss/7.png)
+![Screenshoot 7](media/ss/7.png)
 
 Hasilnya.
 
-[Link Screenshot 8](media/ss/8.png)
+![Screenshoot 8](media/ss/8.png)
 
 Muncul dialog box untuk memasukan nama, dan jika dimasukan maka hasilnya.
 
-[Link Screenshot 9](media/ss/9.png)
+![Screenshoot 9](media/ss/9.png)
 
 Muncul kalimat Halo, Rizky Opras Fernanda! (Nama yang diinputkan pada dialog box).
 
-[Link Screenshot 10](media/ss/10.png)
+![Screenshoot 10](media/ss/10.png)
 
 Dan jika di OK maka paragaraf pada body berubah menjadi nama yang di inputkan.
 
 ### 3. Function dan operasi aritmatika
 
-[Link Screenshot 11](media/ss/11.png)
+![Screenshoot 11](media/ss/11.png)
 
 Hasilnya :
 
 Dibuka di console log, dengan cara klik kanan inspect element lalu pilih console.
 
-[Link Screenshot 12](media/ss/12.png)
+![Screenshoot 12](media/ss/12.png)
 
 Fungsi console log berfungsi untuk menampilkan informasi atau hasil program di Console browser. Biasanya digunakan untuk melihat hasil perhitungan dan membantu mencari kesalahan (debugging) pada kode.
 
 ### 4. Seleksi kondisi if-else
 
-[Link Screenshot 13](media/ss/13.png)
+![Screenshoot 13](media/ss/13.png)
 
 Hasilnya :
 
-[Link Screenshot 14](media/ss/14.png)
+![Screenshoot 14](media/ss/14.png)
 Muncul dialog box untuk memasukan nilai, jika nilai dimasukan nilainya maka, akan muncul kondisi lulus atau tidak lulus.
 
-[Link Screenshot 15](media/ss/15.png)
+![Screenshoot 15](media/ss/15.png)
 
-[Link Screenshot 16](media/ss/16.png)
+![Screenshoot 16](media/ss/16.png)
 
 ### 5. Seleksi kondisi switch
 
-[Link Screenshot 17](media/ss/17.png)
+![Screenshoot 17](media/ss/17.png)
 
 Hasilnya :
 
-[Link Screenshot 18](media/ss/18.png)
+![Screenshoot 18](media/ss/18.png)
 
 Muncul dialog box untuk memasukan angka 1 – 5 dan jika diisikan hasilnya :
 
-[Link Screenshot 19](media/ss/19.png)
+![Screenshoot 19](media/ss/19.png)
 
 Akan muncul nama bilangan yang diinputkan, dan jika selain 1 sampai 5 akan muncul allert pilihan tidak tersedia.
 
@@ -109,132 +109,132 @@ Akan muncul nama bilangan yang diinputkan, dan jika selain 1 sampai 5 akan muncu
 
 Tambahkan kode pada index.html.
 
-[Link Screenshot 20](media/ss/20.png)
+![Screenshoot 20](media/ss/20.png)
 
 Kemudian pada script.js tambahkan kode :
 
-[Link Screenshot 21](media/ss/21.png)
+![Screenshoot 21](media/ss/21.png)
 
 Hasilnyamuncul input untuk memasukan bilangan dan tombol untuk memeriksanya.
 
-[Link Screenshot 22](media/ss/22.png)
+![Screenshoot 22](media/ss/22.png)
 
 Jika dimasukan hasilnya muncul jenis bilangan yang dimasukan.
 
-[Link Screenshot 23](media/ss/23.png)
+![Screenshoot 23](media/ss/23.png)
 
 Jika memasukan bilangan negative maka munculnya ganjil genapnya dari bilangan yang di input.
 
-[Link Screenshot 24](media/ss/24.png)
+![Screenshoot 24](media/ss/24.png)
 
 Dan jika dimasukan bilangan decimal hasilnya muncul allert untuk memasukan bilangan bulat yang valid.
 
-[Link Screenshot 25](media/ss/25.png)
+![Screenshoot 25](media/ss/25.png)
 
 ### 7. Mengubah warna halaman
 
 Buat button pada halaman index.html.
 
-[Link Screenshot 26](media/ss/26.png)
+![Screenshoot 26](media/ss/26.png)
 
 Tambahkan javascriptnya.
 
-[Link Screenshot 27](media/ss/27.png)
+![Screenshoot 27](media/ss/27.png)
 
 Hasilnya muncul 3 button untuk mengubah warna latar belakang jika di tekan warna background akan menyesuaikan warna pada setia tombolnya.
 
-[Link Screenshot 28](media/ss/28.png)
+![Screenshoot 28](media/ss/28.png)
 
 ### 8. DOM dan checkbox menu makanan
 
 Tambahkan kode pada file index.html.
 
-[Link Screenshot 29](media/ss/29.png)
+![Screenshoot 29](media/ss/29.png)
 
 Masukan Javascriptnya.
 
-[Link Screenshot 30](media/ss/30.png)
+![Screenshoot 30](media/ss/30.png)
 
 Hasilnya muncul sebuah daftar menu yang jika di checklist akan mengubah total nominal dari item yang di centang pada checkbox.
 
-[Link Screenshot 31](media/ss/31.png)
+![Screenshoot 31](media/ss/31.png)
 
 ## MINI PROJECT – CALCULATOR MAHASISWA
 
 ### 1. Buat kalkulator.html
 
-[Link Screenshot 32](media/ss/32.png)
+![Screenshoot 32](media/ss/32.png)
 
 ### 2. Tambahkan java scriptnya :
 
-[Link Screenshot 33](media/ss/33.png)
+![Screenshoot 33](media/ss/33.png)
 
 Hasilnya :
-[Link Screenshot 34](media/ss/34.png)
+![Screenshoot 34](media/ss/34.png)
 
-[Link Screenshot 35](media/ss/35.png)
+![Screenshoot 35](media/ss/35.png)
 
-[Link Screenshot 36](media/ss/36.png)
+![Screenshoot 36](media/ss/36.png)
 
-[Link Screenshot 37](media/ss/37.png)
+![Screenshoot 37](media/ss/37.png)
 
-[Link Screenshot 38](media/ss/38.png)
+![Screenshoot 38](media/ss/38.png)
 
 ## EXPERIMENT MANDIRI
 
 ### 1. Ubah Latihan 3 agar menerima dua nilai dari prompt dan mengonversinya menjadi number.
 
-[Link Screenshot 39](media/ss/39.png)
+![Screenshoot 39](media/ss/39.png)
 
 Hasilnya :
 
-[Link Screenshot 40](media/ss/40.png)
+![Screenshoot 40](media/ss/40.png)
 
-[Link Screenshot 41](media/ss/41.png)
+![Screenshoot 41](media/ss/41.png)
 
-[Link Screenshot 42](media/ss/42.png)
+![Screenshoot 42](media/ss/42.png)
 
 ### 7. Buat perulangan untuk menampilkan tabel perkalian angka 7 dari 1 sampai 10.
 
-[Link Screenshot 43](media/ss/43.png)
+![Screenshoot 43](media/ss/43.png)
 
 Hasilnya :
 
-[Link Screenshot 44](media/ss/44.png)
+![Screenshoot 44](media/ss/44.png)
 
 ### 8. Buat function cekGenap(angka) yang mengembalikan true jika angka genap.
 
-[Link Screenshot 45](media/ss/45.png)
+![Screenshoot 45](media/ss/45.png)
 
 Hasilnya :
 
-[Link Screenshot 46](media/ss/46.png)
+![Screenshoot 46](media/ss/46.png)
 
-[Link Screenshot 47](media/ss/47.png)
+![Screenshoot 47](media/ss/47.png)
 
 ### 9. Tambahkan validasi form agar kolom tidak boleh kosong.
 
-[Link Screenshot 48](media/ss/48.png)
+![Screenshoot 48](media/ss/48.png)
 
 Js
 
-[Link Screenshot 49](media/ss/49.png)
+![Screenshoot 49](media/ss/49.png)
 
 Hasilnya :
 
-[Link Screenshot 50](media/ss/50.png)
+![Screenshoot 50](media/ss/50.png)
 
 ### 11. Gunakan tombol untuk menyembunyikan atau menampilkan elemen HTML.
 
-[Link Screenshot 51](media/ss/51.png)
+![Screenshoot 51](media/ss/51.png)
 
-[Link Screenshot 52](media/ss/52.png)
+![Screenshoot 52](media/ss/52.png)
 
 Hasilnya :
 
-[Link Screenshot 53](media/ss/53.png)
+![Screenshoot 53](media/ss/53.png)
 
-[Link Screenshot 54](media/ss/54.png)
+![Screenshoot 54](media/ss/54.png)
 
 ## Pertanyaan dan Tugas
 
@@ -251,7 +251,7 @@ let dan const digunakan untuk mendeklarasikan variabel dalam JavaScript, tetapi 
 
 Contoh:
 
-[Link Screenshot 55](media/ss/55.png)
+![Screenshoot 55](media/ss/55.png)
 
 ### 3. Apa perbedaan operator == dan === ?
 
@@ -276,4 +276,4 @@ JavaScript menggunakan document.getElementById() untuk memilih elemen HTML berda
 
 ### 7. Buat script untuk memvalidasi form agar nama tidak kosong dan nilai berada pada rentang 0–100.
 
-[Link Screenshot 56](media/ss/56.png)
+![Screenshoot 56](media/ss/56.png)
