@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kalkulator Nilai Mahasiswa</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Kalkulator Nilai Mahasiswa</h1>
+      <p>Masukkan nilai tugas, UTS, dan UAS.</p>
+
+      <form id="formNilai">
+        <label for="tugas">Nilai Tugas (30%)</label>
+        <input
+          type="number"
+          id="tugas"
+          min="0"
+          max="100"
+          step="any"
+          placeholder="Masukkan nilai tugas"
+          required
+        />
+
+        <label for="uts">Nilai UTS (30%)</label>
+        <input
+          type="number"
+          id="uts"
+          min="0"
+          max="100"
+          step="any"
+          placeholder="Masukkan nilai UTS"
+          required
+        />
+
+        <label for="uas">Nilai UAS (40%)</label>
+        <input
+          type="number"
+          id="uas"
+          min="0"
+          max="100"
+          step="any"
+          placeholder="Masukkan nilai UAS"
+          required
+        />
+
+        <button type="submit">Hitung Nilai</button>
+      </form>
+
+      <p id="pesan" role="alert"></p>
+
+      <div id="hasil" hidden>
+        <h2>Hasil Perhitungan</h2>
+        <p>Nilai akhir: <strong id="nilaiAkhir"></strong></p>
+        <p>Predikat: <strong id="predikat"></strong></p>
+        <p>Status: <strong id="status"></strong></p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

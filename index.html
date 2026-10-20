@@ -1,0 +1,68 @@
+<!-- index.html -->
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Praktikum JavaScript</title>
+  </head>
+  <body>
+    <h1>Pengenalan JavaScript</h1>
+    <p id="pesan">Selamat datang Rizky Opras Fernanda.</p>
+    <a href="kalkulator.html">Kalkulator Nilai Mahasiswa</a>
+    <br />
+
+    <label for="bilangan">Masukkan bilangan bulat:</label>
+    <input type="number" id="bilangan" step="1" />
+    <button type="button" onclick="cekBilangan()">Periksa</button>
+    <p id="hasilBilangan"></p>
+
+    <h3>Daftar Menu Makanan</h3>
+    <label
+      ><input type="checkbox" class="menu" value="5000" /> Ayam Goreng —
+      Rp5.000</label
+    ><br />
+    <label
+      ><input type="checkbox" class="menu" value="500" /> Tempe — Rp500</label
+    ><br />
+    <label
+      ><input type="checkbox" class="menu" value="2500" /> Telur Dadar —
+      Rp2.500</label
+    ><br />
+    <p>Total: Rp<span id="total">0</span></p>
+
+    <button type="button" onclick="ubahWarnaLatar('lightgreen')">
+      Latar Hijau
+    </button>
+    <button type="button" onclick="ubahWarnaLatar('white')">Latar Putih</button>
+    <button type="button" onclick="ubahWarnaLatar('lightyellow')">
+      Latar Kuning
+    </button>
+
+    <h2>Form Data Mahasiswa</h2>
+
+    <form id="formMahasiswa">
+      <label for="nama">Nama:</label>
+      <input type="text" id="nama" required />
+      <br /><br />
+
+      <label for="nim">NIM:</label>
+      <input type="text" id="nim" required />
+      <br /><br />
+
+      <button type="submit">Kirim</button>
+    </form>
+
+    <p id="hasil"></p>
+
+    <h2>Contoh Sembunyikan dan Tampilkan</h2>
+
+    <p id="teks">Ini adalah teks yang bisa disembunyikan.</p>
+
+    <button type="button" onclick="sembunyikanTeks()">Sembunyikan</button>
+
+    <button type="button" onclick="tampilkanTeks()">Tampilkan</button>
+
+    <script src="script.js"></script>
+  </body>
+</html>
