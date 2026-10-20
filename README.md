@@ -14,7 +14,7 @@ Pertama, membuka aplikasi Visual Studio Code sebagai text editor dan browser unt
 
 Kemudian dibuat folder kerja dengan nama Lab5Web.
 
-[Link Screenshot 1](media/ss/1.png)
+[Screenshot 1](media/ss/1.png)
 
 ### Membuat Dokumen HTML
 
